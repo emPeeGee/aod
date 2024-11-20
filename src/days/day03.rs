@@ -3,6 +3,13 @@ use std::{
     io::{BufRead, BufReader, Seek},
 };
 
+
+// Aption
+
+
+
+
+
 pub fn solve() {
     let alphabet: Vec<char> = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
         .chars()
